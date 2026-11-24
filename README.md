@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **MERN Stack, SQL, Python, PyTorch, Ultralytics YOLO11 & Streamlit**
 
-- 📫 How to reach me: **anas.javed.dev@example.com** *(replace with your real email)*
+- 📫 How to reach me: **official.anasjaved.@gmail.com**
 
 - 🌐 Check out my live portfolio: <a href="https://anasjaved28.github.io/portfolio/" target="blank">Portfolio</a>
 
